@@ -1,7 +1,9 @@
+require('dotenv').config();
 const express = require('express');
 const routes = require('./routes');
-const sequelize = require('./config/connection');
+// configuring sequelize in a module and requiring the code
 // import sequelize connection
+const sequelize = require('./config/connection');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -17,4 +19,3 @@ sequelize.sync({force: false}).then(() => {
   console.log(`App listening on port ${PORT}!`);
 });
 })
-
