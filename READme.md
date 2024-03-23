@@ -46,6 +46,11 @@ Screenshots:
 
 ![Insomnia Preview](./assets/images/products.gif)
 
+![Screenshot](./assets/images/screenshot.png)
+
+Youtube video link:
+[Youtube Link](https://youtu.be/-GS-W6hv0Ko)
+
 ## Features
 Javascript variables, destructuring, classes and constructors, promises, try/catch methods, async/await methods, MySQL, Sequelize: models, associations, etc.
 
