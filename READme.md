@@ -37,7 +37,6 @@ Step 7: Now to run the application, Enter "nodemon server.js" or "npm start" and
 <br>
 Step 8: After the "Connection Successful!" appears in the console, the application is connected to the database through localhost server.
 
-
 ## Links
 Screenshots:
 ![Insomnia Preview](./assets/images/categories.gif)
