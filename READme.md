@@ -41,10 +41,6 @@ Step 8: After the "Connection Successful!" appears in the console, the applicati
 Screenshots:
 ![Insomnia Preview](./Assets/images/categories.gif)
 
-![Insomnia Preview](./Assets/images/tags.gif)
-
-![Insomnia Preview](./Assets/images/products.gif)
-
 ![Screenshot](./Assets/images/screenshot.png)
 
 Youtube video link:
