@@ -39,9 +39,9 @@ Step 8: After the "Connection Successful!" appears in the console, the applicati
 
 ## Links
 Screenshots:
-![Insomnia Preview](./Assets/images/app.gif)
+![Insomnia Preview](./assets/images/app.gif)
 
-![Screenshot](./Assets/images/screenshot.png)
+![Screenshot](./assets/images/screenshot.png)
 
 Youtube video link:
 [Youtube Link](https://youtu.be/-GS-W6hv0Ko)
