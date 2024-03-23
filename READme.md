@@ -39,7 +39,7 @@ Step 8: After the "Connection Successful!" appears in the console, the applicati
 
 ## Links
 Screenshots:
-![Insomnia Preview](./Assets/images/categories.gif)
+![Insomnia Preview](./Assets/images/app.gif)
 
 ![Screenshot](./Assets/images/screenshot.png)
 
